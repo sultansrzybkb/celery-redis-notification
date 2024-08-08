@@ -1,0 +1,13 @@
+django
+django-honeypot
+django-notifications-hq
+django-activity-stream 
+djangorestframework
+python-dotenv
+channels
+channels-redis
+daphne
+celery
+django-celery-beat
+celery
+django-celery-results
